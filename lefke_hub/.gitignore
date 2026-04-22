@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.idea/
+uploads/
+.dockerignore
+
+frontend/dist/
+
+# Игнорируем логи ошибок npm
+npm-debug.log*
